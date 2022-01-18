@@ -108,7 +108,8 @@ To be more precise, it goes from 3 to 5 Km in the  countryside, 100 to 200 km by
 
 We have chosen Sigfox as it is a french company founded in 2009 by Ludovic Le Moan and Christophe Fourtet it is based in Toulouse, with offices in Paris, Madrid & San Francisco
 its fundraising is around €100 million in 2015 from Air Liquide, Eutelsat, Engie, NTT Docomo, Samsung, Telefonica, ...It also raised €150 million in 2016 from Salesforce, Total, Henri Seydoux, Alto Invest, Swen CP. \
-Sigfox functions Operation indoors and outdoors, it is a bi-directional communication. To subscribe, we only need to pay between €1 and €14/year/object. Also, it does not need a SIM card, does not need to be paired and it allows us to send 140 messages per day with a 12 bytes by message. \
+
+Sigfox functions Operation indoors and outdoors, it is a bi-directional communication. To subscribe, we only need to pay between €1 and €14/year/object. Also, it does not need a SIM card, does not need to be paired and it allows us to send 140 messages per day with a 12 bytes by message. 
 
 
 ![Sigfox](https://github.com/CamilleDouzet/beelieve_in_ourselves/blob/main/image/Sigfox_logo.jpg)
