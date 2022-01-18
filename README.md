@@ -178,6 +178,10 @@ The context on which the project was done allows for a lot of ways of improving 
 
 ![lc-triangulation-scheme](https://user-images.githubusercontent.com/71441641/149947211-79d85bba-e4ae-492e-90d0-3f85a2759093.png)
 
+WLAN Another existing functionality that could be taken advantage of, is the GPS coordinates. Using the Sigfox network of towers, a Ping test could be done from the closest 3 towers. By comparing the distance readout from the 3 towers, our system could be located within reasonable precision. This functionality is especially interesting, as it could be configured without sending additional data. 
+Considering of the limited time and other constraints, we were not able to implement all the functionalities that we conceived for our system. Indeed, while conceiving our PCB, we included the connecters for another DHT sensor that could be used inside the hive. 
+
+
 ### Electronical Schematics
 
 Here's the electronical schematic prototype on the LABDEC :
