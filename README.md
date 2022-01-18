@@ -358,7 +358,7 @@ We used the following libraries :
 * Arduino MKR FOX 1200 : https://www.gotronic.fr/art-carte-arduino-mkr-fox-1200-abx00014-27323.htm
 * Battery Li-Ion 3,7V 1050 mAh : https://www.gotronic.fr/art-accu-li-ion-3-7-v-1050-mah-5811.htm
 * Inside temperature sensor DS18B20 : https://www.gotronic.fr/art-capteur-de-temperature-grove-101990019-23842.htm
-* Weight sensor and strain gauge HX711 : ![lc-triangulation-scheme](https://user-images.githubusercontent.com/71441641/149946098-acc78429-9253-4f32-9403-62b09a99c49c.png)
+* Weight sensor and strain gauge HX711 : ![lc-triangulation-scheme]
 https://www.gotronic.fr/art-amplificateur-hx711-grove-101020712-31346.htm
 * Outside temperature and humidity sensors DHT22 : https://www.gotronic.fr/art-module-capteur-t-et-humidite-sen-dht22-31502.htm 
 * Electronical schematic : https://fritzing.org/
