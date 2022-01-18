@@ -171,6 +171,10 @@ It is preferable, in order to improve this tightness, to manufacture a support w
 
 ![Outside temperature and humidity sensor](https://github.com/CamilleDouzet/beelieve_in_ourselves/blob/main/image/modelisation_dht.png)
 
+### Prospects for improuvment
+
+The context on which the project was done allows for a lot of ways of improving our system. Any feature that could be added will be helpful in order to have a compete vision on the hive. A functionality of the Sigfox chip that could be used is the accelerometer to track the hive. The info of this integrated sensor could be sent to Ubidots, where notifications will be sent to alert the users. This data will add another layer of security to our system. 
+
 ### Electronical Schematics
 
 Here's the electronical schematic prototype on the LABDEC :
@@ -347,7 +351,8 @@ We used the following libraries :
 * Arduino MKR FOX 1200 : https://www.gotronic.fr/art-carte-arduino-mkr-fox-1200-abx00014-27323.htm
 * Battery Li-Ion 3,7V 1050 mAh : https://www.gotronic.fr/art-accu-li-ion-3-7-v-1050-mah-5811.htm
 * Inside temperature sensor DS18B20 : https://www.gotronic.fr/art-capteur-de-temperature-grove-101990019-23842.htm
-* Weight sensor and strain gauge HX711 : https://www.gotronic.fr/art-amplificateur-hx711-grove-101020712-31346.htm
+* Weight sensor and strain gauge HX711 : ![lc-triangulation-scheme](https://user-images.githubusercontent.com/71441641/149946098-acc78429-9253-4f32-9403-62b09a99c49c.png)
+https://www.gotronic.fr/art-amplificateur-hx711-grove-101020712-31346.htm
 * Outside temperature and humidity sensors DHT22 : https://www.gotronic.fr/art-module-capteur-t-et-humidite-sen-dht22-31502.htm 
 * Electronical schematic : https://fritzing.org/
 * PCB design : https://www.autodesk.fr/
