@@ -175,6 +175,9 @@ It is preferable, in order to improve this tightness, to manufacture a support w
 
 The context on which the project was done allows for a lot of ways of improving our system. Any feature that could be added will be helpful in order to have a compete vision on the hive. A functionality of the Sigfox chip that could be used is the accelerometer to track the hive. The info of this integrated sensor could be sent to Ubidots, where notifications will be sent to alert the users. This data will add another layer of security to our system. 
 
+
+![lc-triangulation-scheme](https://user-images.githubusercontent.com/71441641/149947211-79d85bba-e4ae-492e-90d0-3f85a2759093.png)
+
 ### Electronical Schematics
 
 Here's the electronical schematic prototype on the LABDEC :
