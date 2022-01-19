@@ -310,7 +310,15 @@ We have established the formula according to the results retrieved form this exp
 
 ### System's autonomy 
 
-We have tried to calculate the system consumption using (a completer le nom de l'appareil)
+We have tried to calculate the system consumption using a power analyzer named Otii. \
+We have noted the following measurements : 
+  * Consumption : 20mA during 7.827 s
+  * sending data : 65 mA during 6.646 S 
+  * Default sleep mode : 10mA
+All in all, the system is theoretically a 4-day autonomous. \
+Fortunatelly, these results were pretty coherent to the real measures we have taken during the test, the system was autonoumous and the battery have well functioned without being charged.
+
+
 ![image](https://github.com/CamilleDouzet/beelieve_in_ourselves/blob/main/image/consommation.png)
 
 
