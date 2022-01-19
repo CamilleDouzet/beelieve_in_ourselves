@@ -125,7 +125,9 @@ Thanks to Ubidots, we had access real-time production data history. In addition,
 
 We have also chosen to display our data using the Beep API platform. The advantage of such an API over Ubidots that it allows all the groups to display their data in one place. All the hives are visible in one place for our project supervisor. 
 We were able to successfully create our device on the platform and have all the graphs displayed with the other hives. Nevertheless, due to the lack of time we were not able to fix a problem that causes the data to not display properly.
+
 ![Capture d’écran 2022-01-19 105405](https://user-images.githubusercontent.com/71441641/150107647-72debd7e-6607-4e90-98a8-08333a33b433.png)
+
 Indeed, the data is being sent correctly as it could be seen the screen shot, however it is not being displayed on the graphs.
 
 ### Microcontroller choice 
