@@ -130,6 +130,7 @@ We were able to successfully create our device on the platform and have all the 
 ![Capture d’écran 2022-01-19 105405](https://user-images.githubusercontent.com/71441641/150107647-72debd7e-6607-4e90-98a8-08333a33b433.png)
 
 Indeed, the data is being sent correctly as it could be seen the screen shot, however it is not being displayed on the graphs.
+Compared to Ubidots, Beep API seems a bit more complicated to use, as it is not very known. The Ubidots platform allows more customization to the dashboard with more available tutorials online.
 
 ### Microcontroller choice 
 ![Microcontroller](https://github.com/CamilleDouzet/beelieve_in_ourselves/blob/main/image/photo_mkrfox1.PNG)
