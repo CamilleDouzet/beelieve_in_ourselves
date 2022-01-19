@@ -308,6 +308,12 @@ We have also used the photodiode datasheet to determine its theoretical maximum 
 Although we had to do an experience in a “realistic environment” by exposing the photodiode to high luminist flash, and isolating the photodiode to simulate the day and night conditions. \
 We have established the formula according to the results retrieved form this experience. 
 
+### System's autonomy 
+
+We have tried to calculate the system consumption using (a completer le nom de l'appareil)
+![image](https://github.com/CamilleDouzet/beelieve_in_ourselves/blob/main/image/consommation.png)
+
+
 ### Our Week experiment  
 ![image](https://github.com/CamilleDouzet/beelieve_in_ourselves/blob/main/image/sigfox_trame.png)
 
