@@ -133,6 +133,12 @@ Indeed, the data is being sent correctly as it could be seen the screen shot, ho
 Compared to Ubidots, Beep API seems a bit more complicated to use, as it is not very known. The Ubidots platform allows more customization to the dashboard with more available tutorials online.
 
 ### Microcontroller choice 
+
+It was a practical solution to start with the Arduino MKR FOX 1200 which is based on a 48 MHz 32-bit M0 Cortex with easy programing examples and different libraries. \
+It has a SigFox ATA8520 wireless module but we had to add the antenna because it was not included. \
+Unlike other Arduino boards, the I/O runs on 3.3 VDC. Higher voltage will damage the board thus the use of 5 VDC input or output is not possible.
+
+
 ![Microcontroller](https://github.com/CamilleDouzet/beelieve_in_ourselves/blob/main/image/photo_mkrfox1.PNG)
 
 ### Weight sensor choice
