@@ -121,7 +121,8 @@ Sigfox functions Operation indoors and outdoors, it is a bi-directional communic
 We used Ubidots STEM dashboard for our IOT project, using chart widgets to collect and represent data delivered by the sensors. \
 Thanks to Ubidots, we had access real-time production data history. In addition, we can configure and activate conditional events and alerts via SMS, e-mail. 
 
-![Capture d’écran 2022-01-19 104902](https://user-images.githubusercontent.com/71441641/150107537-71c5ce2c-08a0-43a0-99af-572c5a84d77c.png)
+![Capture d’écran 2022-01-19 105956](https://user-images.githubusercontent.com/71441641/150108100-73ac98ee-e3c1-4288-b059-4a3cc5464647.png)
+
 
 We have also chosen to display our data using the Beep API platform. The advantage of such an API over Ubidots that it allows all the groups to display their data in one place. All the hives are visible in one place for our project supervisor. 
 We were able to successfully create our device on the platform and have all the graphs displayed with the other hives. Nevertheless, due to the lack of time we were not able to fix a problem that causes the data to not display properly.
