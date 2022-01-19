@@ -314,7 +314,7 @@ We have tried to calculate the system consumption using a power analyzer named O
 We have noted the following measurements : 
   * Consumption : 20mA during 7.827 s
   * sending data : 65 mA during 6.646 S 
-  * Default sleep mode : 10mA \
+  * Default sleep mode : 10mA 
   
 All in all, the system is theoretically a 4-day autonomous. \
 Fortunatelly, these results were pretty coherent to the real measures we have taken during the test, the system was autonoumous and the battery have well functioned without being charged.
