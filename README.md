@@ -269,6 +269,9 @@ The dashboard page is displayed on which you will find all the information conce
 - A graph representing the battery charge
 - A graph to see the sunshine.
 
+It is also possible to see the data on the Beep API: https://app.beep.nl/ with the identifiers: or21@yopmail.com and Sigfox21# for the password.
+
+The data appears at hive 12.
 
 
 ## Some tests reports
